@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524281224703",
+    "project_id": "fluttertiktik",
+    "storage_bucket": "fluttertiktik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524281224703:android:2bb0c1ad5e58c9f4f15bca",
+        "android_client_info": {
+          "package_name": "com.example.flutter_video_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524281224703-sq1cad3sou6297v1a5kdh8mmljrhjrrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0q0_IeWeNzUqvQlRDe-5zMXR0HFE5uBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524281224703-sq1cad3sou6297v1a5kdh8mmljrhjrrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
